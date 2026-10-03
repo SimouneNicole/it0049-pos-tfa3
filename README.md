@@ -2,6 +2,8 @@
 
 A Point of Sale (POS) application built on CodeIgniter 4. This repository builds upon the database-driven architecture established in TFA2 by adding validated create and edit workflows for customer and user records, along with user avatar uploading and image preparation.
 
+## Deployed InfinityFree website: https://it0049-pos-tfa3.ifree.page/
+
 ## Features & Improvements in TFA3
 
 - **Customer Create and Edit Forms**: Added forms for creating new customer records and updating existing customer information.
